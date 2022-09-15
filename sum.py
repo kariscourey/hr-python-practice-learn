@@ -10,6 +10,7 @@
 def sum_all(*numbers):
     return sum(numbers)
 
+
 print(sum_all(2,3,4,5))
 print(sum_all(9))
 print(sum_all(0))
